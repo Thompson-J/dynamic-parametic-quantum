@@ -1,4 +1,4 @@
-#dynamic-parametric-quantum
+# dynamic-parametric-quantum
 1. Setup a web environment with PHP and mySQL and upload the web folder to it.
 2. Open Scanner_and_Sender.pde with Processing and an Arduino RFID scanner plugged in and run the application.
 3. Register and scan your card.
