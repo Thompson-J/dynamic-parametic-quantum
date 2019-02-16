@@ -1,0 +1,77 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="false" exportTarget="other" domain="index.html" resolutions="1x,2x" timestamp="1495193545709">
+  <folder name="css">
+    <file name="site_global.css" crc="4139087121"/>
+    <file name="master_a-master.css" crc="102662821" ref="index:incorrect-password:map:incorrect-username:results-search:results"/>
+    <file name="nomq_preview_master_a-master.css" crc="3895638187" ref="index:incorrect-password:map:incorrect-username:results-search:results"/>
+    <file name="index.css" crc="274682795" ref="index"/>
+    <file name="nomq_index.css" crc="4250483803" ref="index"/>
+    <file name="incorrect-password.css" crc="3813805949" ref="incorrect-password"/>
+    <file name="nomq_incorrect-password.css" crc="4168798035" ref="incorrect-password"/>
+    <file name="map.css" crc="4145114499" ref="map"/>
+    <file name="nomq_map.css" crc="4225365810" ref="map"/>
+    <file name="incorrect-username.css" crc="4195207333" ref="incorrect-username"/>
+    <file name="nomq_incorrect-username.css" crc="4263831838" ref="incorrect-username"/>
+    <file name="results-search.css" crc="3980182208" ref="results-search"/>
+    <file name="nomq_results-search.css" crc="3769065054" ref="results-search"/>
+    <file name="results.css" crc="193338831" ref="results"/>
+    <file name="nomq_results.css" crc="11313217" ref="results"/>
+  </folder>
+  <folder name="fonts">
+    <file name="proximanova-regular_1.woff" crc="3845912130"/>
+    <file name="proximanova-regular_1.eot" crc="496850396"/>
+    <file name="rooneysans-bold.woff" crc="4213574298"/>
+    <file name="rooneysans-bold.eot" crc="7457234"/>
+    <file name="proximanova-regular_1.woff" crc="3845912130"/>
+    <file name="proximanova-regular_1.eot" crc="496850396"/>
+    <file name="proximanova-regular_1.woff" crc="3845912130"/>
+    <file name="proximanova-regular_1.eot" crc="496850396"/>
+    <file name="proximanova-regular_1.woff" crc="3845912130"/>
+    <file name="proximanova-regular_1.eot" crc="496850396"/>
+    <file name="proximanova-regular_1.woff" crc="3845912130"/>
+    <file name="proximanova-regular_1.eot" crc="496850396"/>
+    <file name="proximanova-regular_1.woff" crc="3845912130"/>
+    <file name="proximanova-regular_1.eot" crc="496850396"/>
+    <file name="proximanova-light.woff" crc="454786957"/>
+    <file name="proximanova-light.eot" crc="4262963181"/>
+    <file name="proximanova-regularit_1.woff" crc="3886521693"/>
+    <file name="proximanova-regularit_1.eot" crc="52138282"/>
+    <file name="proximanova-lightit.woff" crc="3787959478"/>
+    <file name="proximanova-lightit.eot" crc="3954793805"/>
+    <file name="proximanova-black.woff" crc="3890875694"/>
+    <file name="proximanova-black.eot" crc="535466087"/>
+    <file name="rooneysans-regular.woff" crc="517025239"/>
+    <file name="rooneysans-regular.eot" crc="94931508"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+    <file name="museutils.js" crc="3851988764" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+    <file name="whatinput.js" crc="86476730" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+    <file name="pie.js" crc="3831537696" ref="index:results:incorrect-username:incorrect-password"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+    <file name="require.js" crc="4108833657" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.svg" crc="247862039" seo="true" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+    <file name="logo_poster_.png" crc="186070421" ref="index"/>
+    <file name="dsc_0052640x360.jpg" crc="4219865614" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+    <file name="map-640.jpg" crc="3938777345" seo="true" ref="map"/>
+    <file name="dsc_00521536x864.jpg" crc="4023150516" ref="index"/>
+    <file name="map-1476.png" crc="4293568744" seo="true" ref="map"/>
+    <file name="dsc_00522400x1349.jpg" crc="410449777" ref="index"/>
+    <file name="map-1476479x686.png" crc="4293568744" seo="true" ref="map"/>
+    <file name="map-640_2x.jpg" crc="4167660842" seo="true" ref="map"/>
+    <file name="favicon.ico" crc="154316907" ref="index"/>
+    <file name="logotype.svg" crc="4285269087" seo="true" ref="index:results-search:map:results:incorrect-username:incorrect-password"/>
+    <file name="logotype_poster_.png" crc="38772011" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3896331820" seo="true" mt="1495193519105" redirect="true"/>
+  <file name="results-search.html" crc="325264495" seo="true" mt="1495193519105" redirect="true"/>
+  <file name="map.html" crc="308072116" seo="true" mt="1495193519105" redirect="true"/>
+  <file name="results.html" crc="125014041" seo="true" mt="1495193519105" redirect="true"/>
+  <file name="incorrect-username.html" crc="360748046" seo="true" mt="1495193519105" redirect="true"/>
+  <file name="incorrect-password.html" crc="3859983896" seo="true" mt="1495193519105" redirect="true"/>
+</manifest>
